@@ -11,6 +11,9 @@ An image gallery built with React that fetches images from the Unsplash API. The
 - Popup view for images with a close button.
 - Download button on each image for saving the image.
 
+## Demo
+Check out the live demo https://mudassarali4.github.io/image-gallery/ 
+
 ## Installation
 
 1. Clone the repository:
