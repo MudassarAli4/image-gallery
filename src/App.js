@@ -15,7 +15,7 @@ const ImageGalleryWithNavbar = () => {
 
   const fetchImages = async (category) => {
     try {
-      const accessKey = "A143xdC8z_rcaEjyn99bIdM9WugzRF4pmIgnwpcJjZg";
+      const accessKey = "your_access_key";
       const halfWidth = 2560;
       const halfHeight = 1440;
       let apiUrl = `https://api.unsplash.com/photos/random?count=28&client_id=${accessKey}&orientation=landscape&w=${halfWidth}&h=${halfHeight}`;
