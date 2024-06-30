@@ -18,7 +18,7 @@ Check out the live demo https://mudassarali4.github.io/image-gallery/
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/image-gallery.git
+    git clone https://github.com/MudassarAli4/image-gallery.git
     ```
 
 2. Navigate to the project directory:
